@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/IbnFataahPortfolio/static/css/main.1ed324c9.css",
+    "main.js": "/IbnFataahPortfolio/static/js/main.8fccfe93.js",
+    "static/media/IMAGE ME.jpg": "/IbnFataahPortfolio/static/media/IMAGE ME.a11ea74e103e711ee3fa.jpg",
+    "static/media/avatar6.jpg": "/IbnFataahPortfolio/static/media/avatar6.3e3bc40b1777ce81d819.jpg",
+    "static/media/CODER SHEIK.jpg": "/IbnFataahPortfolio/static/media/CODER SHEIK.b0f7d6e05572979c506d.jpg",
+    "static/media/MYPIX.jpg": "/IbnFataahPortfolio/static/media/MYPIX.db7974ae685906dcccac.jpg",
+    "static/media/avatar7.jpg": "/IbnFataahPortfolio/static/media/avatar7.d2bc0f7dc2acd80fb9b7.jpg",
+    "static/media/avatar4.jpg": "/IbnFataahPortfolio/static/media/avatar4.bd9b12cf529d54b08131.jpg",
+    "static/media/avatar2.jpg": "/IbnFataahPortfolio/static/media/avatar2.ed63bd7b5fb0977c618c.jpg",
+    "static/media/avatar1.jpg": "/IbnFataahPortfolio/static/media/avatar1.058840050f8a16aa2b54.jpg",
+    "static/media/project9.jpg": "/IbnFataahPortfolio/static/media/project9.7e10b78179ee665298cd.jpg",
+    "static/media/project6.jpg": "/IbnFataahPortfolio/static/media/project6.4e8ab78eb40a0f03bc88.jpg",
+    "static/media/project7.jpg": "/IbnFataahPortfolio/static/media/project7.4389651d5816bb277c4a.jpg",
+    "static/media/project8.jpg": "/IbnFataahPortfolio/static/media/project8.16ed43794953534af05c.jpg",
+    "static/media/project4.jpg": "/IbnFataahPortfolio/static/media/project4.9e2e36250226a4ebb82b.jpg",
+    "static/media/project2.jpg": "/IbnFataahPortfolio/static/media/project2.d4ca506cbd979283014a.jpg",
+    "static/media/project1.jpg": "/IbnFataahPortfolio/static/media/project1.5cec46bd193a7eb80f22.jpg",
+    "static/media/project3.jpg": "/IbnFataahPortfolio/static/media/project3.746fa9dfecfb9e491ef1.jpg",
+    "static/media/project5.jpg": "/IbnFataahPortfolio/static/media/project5.fdd0c6a0d639a9c75455.jpg",
+    "static/media/avatar3.jpg": "/IbnFataahPortfolio/static/media/avatar3.8d8fee5cc786ea955f6c.jpg",
+    "static/media/CV.pdf": "/IbnFataahPortfolio/static/media/CV.1ade7d6f0c0bdef25b0e.pdf",
+    "index.html": "/IbnFataahPortfolio/index.html",
+    "main.1ed324c9.css.map": "/IbnFataahPortfolio/static/css/main.1ed324c9.css.map",
+    "main.8fccfe93.js.map": "/IbnFataahPortfolio/static/js/main.8fccfe93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed324c9.css",
+    "static/js/main.8fccfe93.js"
+  ]
+}
